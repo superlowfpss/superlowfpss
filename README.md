@@ -1,1 +1,1 @@
-![ya dobriy](rp_dobryak.jpg)
+![desktop](desktop.png)
